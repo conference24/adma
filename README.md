@@ -16,5 +16,5 @@ In recognition of the pivotal role that AI plays in shaping the future of health
 - Integration of AI with emerging technologies such as blockchain and the Internet of Medical Things (IoMT)
 - Real-world applications and case studies demonstrating the impact of AI in healthcare delivery
 
-For more details, please refer to [<a href="[https://conference24.github.io/adma/">ADMA Conference Website</a>].
+For more details, please refer to Special Track on <a href="https://conference24.github.io/adma/">AI in Healthcare and Medicine</a> at <a href="https://adma2024.github.io/">ADMA 2024 Conference Website</a>.
 
